@@ -2,7 +2,7 @@
 
 A simple Python GUI app for managing a library of books using Tkinter and SQLite.
 
-![App Screenshot](screenshot1.png)
+![App Screenshot](./screenshot.png)
 
 ## Features
 - Add, update, delete, and search books  
